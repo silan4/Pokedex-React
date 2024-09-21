@@ -1,6 +1,7 @@
 # Pokedex-React
 
-![Uploading pokemonr.gif…]()
+
+![Uploading pok.gif…]()
 
 
 
