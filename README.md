@@ -1,6 +1,6 @@
 # Pokedex-React
 
-![Uploading pokemonn (1).gif…]()
+![](https://github.com/silan4/Pokedex-React/blob/main/pokemonn.gif)
 
 
 
